@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X01AD" name="Subhendu-droid/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
+ <project path="device/asus/X01AD" name="Subhendu-droid/device_asus_X01AD-1.git" remote="github" revision="MSM" />
  <project path="vendor/asus/X01AD" name="BCA-RMIT/vendor_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/asus/X01AD" name="Subhendu-droid/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  

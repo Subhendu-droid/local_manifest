@@ -5,8 +5,5 @@
  <project path="device/asus/X01AD" name="Subham-XD/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
  <project path="vendor/asus/X01AD" name="Subham-XD/vendor_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/asus/X01AD" name="Subham-XD/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
- <project path="hardware/qcom-caf/msm8996/display" name="itsvixano/hardware_qcom-caf.git" remote="github" revision="display-msm8996-s" />
- <project path="hardware/qcom-caf/msm8996/audio" name="itsvixano/hardware_qcom-caf.git" remote="github" revision="audio-msm8996-s" />
- <project path="hardware/qcom-caf/msm8996/media" name="itsvixano/hardware_qcom-caf.git" remote="github" revision="media-msm8996-s" />
  
 </manifest>

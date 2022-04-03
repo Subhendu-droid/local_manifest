@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X01AD" name="Subham-XD/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
- <project path="vendor/asus/X01AD" name="Subham-XD/vendor_asus_X01AD.git" remote="github" revision="lineage-18.1" />
+ <project path="device/asus/X01AD" name="BCA-RMIT/android_device_asus_X01AD.git" remote="github" revision="lineage-19.0-back" />
+ <project path="vendor/asus/X01AD" name="BCA-RMIT/vendor_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/asus/X01AD" name="Subham-XD/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  
 </manifest>

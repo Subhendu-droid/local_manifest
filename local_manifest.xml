@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X00P" name="Shubhendu-XD/android_device_asus_X00P.git" remote="github" revision="lineage-18.x" />
- <project path="vendor/asus" name="Shubhendu-XD/vendor_asus_X00P.git" remote="github" revision="lineage-18.x" />
- <project path="kernel/asus/X00P" name="Shubhendu-XD/android_kernel_asus_X00P.git" remote="github" revision="lineage-18.x" />
+ <project path="device/asus/X00P" name="Shubhendu-XD/android_device_asus_X01AD.git" remote="github" revision="lineage-19.0-back" />
+ <project path="vendor/asus" name="Shubhendu-XD/vendor_asus_X01AD.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/asus/X00P" name="Subhendu-droid/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
  
 </manifest>
